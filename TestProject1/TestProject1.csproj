@@ -75,5 +75,5 @@
   <Target Name="AfterBuild">
   </Target>
   -->
-  <IsTestProject>true<IsTestProject>
+  <IsTestProject>true</IsTestProject>
 </Project>
