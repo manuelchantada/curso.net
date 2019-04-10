@@ -36,6 +36,7 @@ namespace curso.net
         }
 
         public bool viajar(int kilometros){
+            //nada
             return true;
         }
 
