@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5a5bd6f6-fe24-4a1f-892b-d9611331a40a" name="CHANTADAM@TPHP3179 2019-03-19 15:05:15" runUser="TASA\CHANTADAM" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="3b4d004d-75d2-4421-8fbb-eaeeedd0c141">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="CHANTADAM_TPHP3179 2019-03-19 15_05_15">
+      <DeploymentItem filename="c:\users\chantadam\documents\visual studio 2010\Projects\curso.net\curso.net\bin\Debug\curso.net.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-03-19T15:05:15.7622469-03:00" queuing="2019-03-19T15:05:15.7732480-03:00" start="2019-03-19T15:05:15.7792486-03:00" finish="2019-03-19T15:05:16.3323039-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="testMotor" storage="c:\users\chantadam\documents\visual studio 2010\projects\curso.net\testproject1\bin\debug\testproject1.dll" id="a0cb30ad-5b12-116f-1410-945461fc13d8">
+      <Execution id="f92c214f-e996-4bdf-81bd-54b3ac087ae9" />
+      <TestMethod codeBase="c:/users/chantadam/documents/visual studio 2010/Projects/curso.net/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.motorTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testMotor" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a0cb30ad-5b12-116f-1410-945461fc13d8" executionId="f92c214f-e996-4bdf-81bd-54b3ac087ae9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f92c214f-e996-4bdf-81bd-54b3ac087ae9" testId="a0cb30ad-5b12-116f-1410-945461fc13d8" testName="testMotor" computerName="TPHP3179" duration="00:00:00.2961467" startTime="2019-03-19T15:05:15.7902497-03:00" endTime="2019-03-19T15:05:16.3153022-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f92c214f-e996-4bdf-81bd-54b3ac087ae9">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.motorTest.testMotor threw exception: 
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.</Message>
+          <StackTrace>    en TestProject1.motorTest.testMotor() en c:\users\chantadam\documents\visual studio 2010\Projects\curso.net\TestProject1\motorTest.cs:línea 21
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

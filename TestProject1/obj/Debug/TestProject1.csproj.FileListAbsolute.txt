@@ -1,0 +1,10 @@
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\TestProject1\obj\Debug\TestProject1.csprojAssemblyReference.cache
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\TestProject1\bin\Debug\curso.net.exe
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\TestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\TestProject1\bin\Debug\curso.net.pdb
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\TestProject1\obj\Debug\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\TestProject1\obj\Debug\TestProject1.csproj.CopyComplete
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\TestProject1\obj\Debug\TestProject1.pdb

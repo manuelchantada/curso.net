@@ -1,0 +1,5 @@
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\curso.net\bin\Debug\curso.net.exe
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\curso.net\bin\Debug\curso.net.pdb
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\curso.net\obj\x86\Debug\curso.net.csproj.CoreCompileInputs.cache
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\curso.net\obj\x86\Debug\curso.net.exe
+C:\Users\chantadam\Documents\Visual Studio 2010\Projects\curso.net\curso.net\obj\x86\Debug\curso.net.pdb
