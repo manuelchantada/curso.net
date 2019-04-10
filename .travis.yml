@@ -1,8 +1,5 @@
 language: csharp
-solution: curso.net.sln
-install:
-  - nuget restore curso.net.sln
-  - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
-script:
-  - msbuild /p:Configuration=Debug curso.net.sln
-  - mono ./testrunner/NUnit.ConsoleRunner.3.9.0/tools/nunit3-console.exe ./TestProject1/bin/Debug/TestProject1.dll
+solution: curso.net.sln  
+  script:
+  - dotnet restore
+  - dotnet test
