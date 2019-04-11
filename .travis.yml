@@ -1,6 +1,0 @@
-language: csharp
-mono: - latest
-solution: curso.net.sln  
-script:
-  - dotnet restore
-  - dotnet test
